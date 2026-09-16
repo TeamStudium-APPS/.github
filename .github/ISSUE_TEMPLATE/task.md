@@ -1,5 +1,5 @@
 ---
-name: 작업
+name: 작업 등록
 about: 작업할 내용을 등록합니다.
 title: ""
 labels: ""
